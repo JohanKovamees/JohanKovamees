@@ -7,16 +7,16 @@ I'm a Software/Systems Engineer based in Stockholm. I'm passionate about traveli
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** Java, Python
-- **Web Development:** SpringBoot, Hibernate, Flask, sqlAlchemy
+- **Web Development:** Java Spring Boot, Hibernate, Flask, sqlAlchemy
 - **Database:** (MS)SQL
-- **Tools:** helm, kuberneetes, docker, kafka, sonarrqube
+- **Tools:** helm, kubernetes, docker, kafka, sonarrqube
 - **Other:** I strongly prefer UNIX-based systems
 
 ## 🌱 I'm Currently Learning
 
 I'm constantly learning and exploring new things. Currently, I'm focusing on:
 
-- SpringBoot
+- Java Spring Boot
 
 ## 💼 Projects
 
