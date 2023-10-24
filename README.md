@@ -1,3 +1,5 @@
+![header_img](./header.png)
+
 # Hello, I'm Johan 👋
 
 I'm a Software/Systems Engineer based in Stockholm and a tech enthusiast. I'm passionate about traveling & technology.
@@ -10,6 +12,8 @@ Here are some of the technologies and tools I work with:
 - **Database:** (MS)SQL
 - **Tools:** helm, kubernetes, docker, kafka, sonarrqube
 - **Other:** I strongly prefer UNIX-based systems
+
+![prog_img](./prog.png)
 
 ## 🌱 I'm Currently Learning
 
