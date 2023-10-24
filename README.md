@@ -1,7 +1,6 @@
 # Hello, I'm Johan 👋
 
-I'm a Software/Systems Engineer based in Stockholm. I'm passionate about traveling & technology and enjoy working on interesting tech-stacks.
-
+I'm a Software/Systems Engineer based in Stockholm and a tech enthusiast. I'm passionate about traveling & technology.
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
