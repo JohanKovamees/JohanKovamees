@@ -10,7 +10,7 @@ Here are some of the technologies and tools I work with:
 - **Programming Languages:** Java, Python
 - **Web Development:** Java Spring Boot, Hibernate, Flask, sqlAlchemy
 - **Database:** (MS)SQL
-- **Tools:** helm, kubernetes, docker, kafka, sonarrqube
+- **Tools:** helm, kubernetes, docker, kafka, sonarqube
 - **Other:** I strongly prefer UNIX-based systems
 
 ![prog_img](./prog.png)
