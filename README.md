@@ -32,12 +32,12 @@ Here are some projects I'm proud of:
 Feel free to reach out to me through:
 
 - Email: johan.kovamees@gmail.com
-- LinkedIn: www.linkedin.com/in/johan-kövamees-9244b1158
-- Personal Website: [Your Website Link]
+- LinkedIn: www.linkedin.com/in/johan-kovamees
    <!-- 
 3. [Project 2](Link to Project 2) - Brief description.
 4. [Project 3](Link to Project 3) - Brief description.
 
+- Personal Website: [Your Website Link]
 
 You can find more of my work on my [personal website](Your Website Link) or on [LinkedIn](Your LinkedIn Profile Link).
 
