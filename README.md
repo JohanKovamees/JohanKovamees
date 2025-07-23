@@ -7,14 +7,10 @@ I'm a Software/Systems Engineer based in Stockholm and a tech enthusiast. I'm pa
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** Java, Python
-- **Web Development:** Java Spring Boot, Hibernate, Flask, sqlAlchemy
+- **Programming Languages:** Golang, Java, Python
 - **Database:** SQL & Postgres
-- **Tools:** Helm/Kustomize, K8, Docker, Apache Kafka, Sonarqube
+- **Tools:** Helm/Kustomize, K8, Openshift, Docker, Apache Kafka, Sonarqube
 - **Other:** I strongly prefer UNIX-based systems
-
-![prog_img](./prog.png)
-
 
 ## 📫 Contact Me
 
