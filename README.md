@@ -2,15 +2,7 @@
 
 # Hello, I'm Johan 👋
 
-I'm a Software/Systems Engineer based in Stockholm and a tech enthusiast. I'm passionate technology.
-## 🔧 Technologies & Tools
-
-Here are some of the technologies and tools I work with:
-
-- **Programming Languages:** Golang, Java, Python
-- **Database:** SQL & Postgres
-- **Tools:** Helm/Kustomize, K8, Openshift, Docker, Apache Kafka, Sonarqube
-- **Other:** I strongly prefer UNIX-based systems
+I'm a Software/Systems Engineer based in Stockholm.
 
 ## 📫 Contact Me
 
